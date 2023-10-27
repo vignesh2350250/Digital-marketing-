@@ -6,4 +6,4 @@ drive link
 https://drive.google.com/file/d/1-KhVacxPPK1grYYsC5h_ct757xLe959C/view?usp=drivesdk
 
 website link
-https://vsdtechlaptopsales.my.canva.site/lapsales
+https://vsdtechlaptopsales.my.canva.site/lapsales 
